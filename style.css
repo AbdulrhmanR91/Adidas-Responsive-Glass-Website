@@ -123,4 +123,8 @@ nav ul li a:hover{
         clip-path: circle(50% at bottom);
     }
 
+    .content  .image img{
+        width:200px;
+    }
+
 }
